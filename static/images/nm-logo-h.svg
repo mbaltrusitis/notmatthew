@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>not matthew RJ (red) Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="140" height="140"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="140" height="140" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="not-matthew-RJ-(red)-Copy">
+            <use id="Rectangle-2" stroke="#FF0000" mask="url(#mask-2)" stroke-width="6" xlink:href="#path-1"></use>
+            <text id="not" font-family="FiraCode-Regular, Fira Code" font-size="30" font-weight="normal" letter-spacing="-1.5" fill="#FF0000">
+                <tspan x="78" y="88">no</tspan>
+                <tspan x="111" y="88">t</tspan>
+            </text>
+            <text id="matthew" font-family="FiraCode-Regular, Fira Code" font-size="30" font-weight="normal" letter-spacing="-1.5" fill="#FF0000">
+                <tspan x="12" y="117">matthe</tspan>
+                <tspan x="111" y="117">w</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

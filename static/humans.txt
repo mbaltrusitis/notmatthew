@@ -1,0 +1,13 @@
+/* HUMANS */
+
+    Author:Matthew Baltrusitis
+    Contact:matthew [at] baltrusitis.com
+    Twitter:@mbaltrusitis
+    From:New York, New York
+
+/* SITE */
+    Last update:
+    Language:English
+    Doctype:HTML5
+    IDE: VIM, Sketch
+
