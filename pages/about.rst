@@ -16,9 +16,9 @@ When not fallen down a hole in iTerm, I enjoy trapsing around NYC capturing ever
 this site
 #########
 
-notmatthew.com was put together with the idea in mind that if I had a place to share and talk about project big and small, that Iwould produce (and more importantly complete) projects both big and small. I am always interested in the various endeavours people are working on and any opportunites for collaborative work. Please feel free to reach out with any opportunities, what you are working on, suggestions for this site or just to have an interesting discussion.
+notmatthew.com was put together with the idea in mind that if I had a place to share and talk about projects big and small, that I would produce (and more importantly complete) projects both big and small. I am always interested in the various endeavours people are working on and any opportunites for collaborative work. Please feel free to reach out with any opportunities, what you are working on, suggestions for this site or just to have an interesting discussion.
 
 Keep creative,
 
-!matt
+!matthew
 
