@@ -1,0 +1,29 @@
+..parts:
+..login - pi/raspberry
+..setup the wifi if needed:
+    ../etv/wpa-supplicant
+    ..network={
+        ..ssid="network name"
+        ..psk= "your password"
+        ..reboot
+        ..ifconfig
+..sudo rasp-config
+    ..change your default password
+    ..enable the ssh server
+    ..re-size the file system
+..secure your SSH
+    ..etc/sshd (i think???)
+    ..Port 33133
+    ..AuthorizedKey <path>
+    ..PermitEmptyPasswords no
+    ..UsePAM no
+    ..PermitRootLogin no
+..Add a new user
+    ..Make them a sudoer
+    ..sudo visudo
+    ..<username> ALL=NOPASSWD:ALL
+..Download your public SSH keys from GitHub
+    ..mkdir -p ~/.ssh
+    ..curl -o
+..You should now be done!!!
+..Some other personal configurations...
